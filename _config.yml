@@ -1,0 +1,23 @@
+name: minimal-bootstrap-blog
+title: minimal-bootstrap-blog
+avatar: /assets/images/bootstrap_logo.svg
+tagline: minimal bootstrap theme for Jekyll blogs
+description: minimal bootstrap theme for Jekyll blogs
+url: ''
+baseurl: ''
+author: andrew-park
+logo: /assets/images/bootstrap_logo.svg
+google_analytics: null
+permalink: '/:year/:month/:day/:title/'
+footer-links:
+  email: mkie0125@gmail.com
+  facebook: null
+  github: andrewhwanpark/minimal-bootstrap-blog
+  instagram: andrewhwanpark
+  linkedin: andrewhwanpark
+  rss: null
+  twitter: andrewhwanpark
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
